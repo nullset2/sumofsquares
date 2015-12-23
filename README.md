@@ -1,4 +1,5 @@
 **SUM OF SQUARES**
+==================
 
 A quick, trivial script to solve the following problem:
 
